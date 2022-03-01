@@ -6,6 +6,7 @@ thymeleaf 기본
 
 Spring Boot 기본
  -Spring MVC
+  :java optional 관련 기본처리
  -Spring DI ->  @기반 
  -Spring DI -> javaConfig 파일기반 
   :별도 Config 파일로 서비스랑 Repository 조립(DI)
@@ -22,7 +23,7 @@ JPA
   -기본 JPA
   -Spring Data JPA
   
-AOP
+AOP 기본
  
  
  
