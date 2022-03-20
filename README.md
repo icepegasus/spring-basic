@@ -1,4 +1,4 @@
-# spring-basic
+# spring-basic-기초
 
 김영한 인프런 강의 내용
 
